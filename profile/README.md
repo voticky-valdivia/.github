@@ -33,5 +33,5 @@ To revolutionize the legal industry through the integration of specialized AI ag
 - 🔍 Contract analysis and critical clause detection
 
 ---
-*"The future of law is here. We are Voticky & Valdivia."*
+*"Redefining law, one agent at a time."*
 
