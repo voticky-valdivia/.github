@@ -1,4 +1,4 @@
-# Voticky & Valdivia 🤖⚖️
+# Voticky & Valdivia
 
 ## Pioneers in AI-Powered Legal Services
 
@@ -19,10 +19,10 @@ To revolutionize the legal industry through the integration of specialized AI ag
 - 🌐 Cross-border financial technology regulations
 
 **Cristian** - *Technology Partner*
-- 🛠️ Architect of our agentic infrastructure
-- 🤖 AI systems integration specialist
-- ☁️ Cloud-native legal technology solutions
-- 🔧 Full-stack development and ML operations
+ - 🧠 Designer of next-gen cognitive agents
+ - 🔗 Specialist in Web3 infrastructure and multi-agent systems
+ - ⚙️ Full-stack integrator across AI, blockchain, IoT, and robotics systems
+ - 🚀 Builder of fast, scalable, cloud-native tech products
 
 #### AI Agents
 
